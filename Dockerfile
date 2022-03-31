@@ -1,5 +1,5 @@
 # Building the main container
-FROM python:3.6-slim
+FROM python:3.9-slim
 
 WORKDIR /label-studio
 
